@@ -9,7 +9,6 @@
 //   process.exit(1);
 // });
 
-console.log("hello data");
 "use strict";
 
 const { Console } = require("console");
